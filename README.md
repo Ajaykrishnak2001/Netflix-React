@@ -1,8 +1,18 @@
-# React + Vite
+Netflix Clone - A Video Streaming Platform 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A feature-rich video streaming application built for an immersive entertainment experience. This project showcases seamless real-time video streaming, live movie trailer playback, and scalable deployment.
 
-Currently, two official plugins are available:
+✨ Highlights of the Project:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Real-time Video Streaming: Powered by React.js and the TMDB API for accurate and dynamic movie data.
+Live Movie Trailer Playback: Integrated React Player for an engaging and interactive user experience.
+Firebase Integration: Ensures seamless functionality and scalable deployment.
+
+🔧 Tech Stack:
+
+Frontend: React.js
+APIs: TMDB API
+Video Player: React Player
+Backend/Hosting: Firebase
+
+This project reflects my passion for web development and my dedication to learning and applying modern tools to build practical, user-friendly platforms. 🚀
